@@ -23,6 +23,10 @@ This allows the game to be rendered at 60 FPS instead of 30 FPS by interpolation
 
 The Mario head intro is the only exception which is still rendered at 30 FPS.
 
+## 144 FPS `144fps.patch`
+
+This patch is the same as the 60 FPS patch but at 144 FPS instead.
+
 ## Crash Screen - `crash.patch`
 
 This enhancement provides a crash screen that is displayed when the code throws a hardware exception. This may be useful for diagnosing crashes in game code.
